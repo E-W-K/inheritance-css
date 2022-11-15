@@ -1,0 +1,42 @@
+body {
+    background-color: beige;
+    color: brown;
+}
+ol {
+    border: 5px darkorange solid;
+    padding: 20px 30px 20px 40px;
+    color: blue;
+}
+ul {
+    border: 4px darkorange solid;
+    padding: 20px 30px 20px 40px;
+    color: olive;
+}
+li {
+    background-color: aqua;
+    color: green;
+}
+.likes {
+    color: coral;
+}
+#repair {
+    background-color: black;
+}
+#spa {
+    background-color: blanchedalmond;
+}
+#beach {
+    background-color: black;
+}
+#snoring{
+    background-color: blanchedalmond;
+}
+#hiccups {
+    background-color: black;
+}
+#animal {
+    background-color: blanchedalmond;
+}
+#cold {
+    background-color: black;
+}
